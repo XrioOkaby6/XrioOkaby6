@@ -12,8 +12,8 @@
   <img src="https://komarev.com/ghpvc/?username=XrioOkaby6&color=green" alt="Visualizações do perfil" />
 </p>
 
-<h3> 🌟 I'm currently pursuing a Bachelor's degree in Information Systems, actively working to improve my programming skills and exploring various areas of the IT industry. My academic and personal learning journey is focused on building a solid foundation in Information Systems while actively exploring emerging technologies.
-</h3>
+<p1> 🌟 I'm currently pursuing a Bachelor's degree in Information Systems, actively working to improve my programming skills and exploring various areas of the IT industry. My academic and personal learning journey is focused on building a solid foundation in Information Systems while actively exploring emerging technologies.
+</p1>
 
 
 
