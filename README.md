@@ -14,6 +14,13 @@
   <img src="https://komarev.com/ghpvc/?username=XrioOkaby6&color=green" alt="Visualizações do perfil" />
 </p>
 
+<p2> 
+🌱 I am currently improving and expanding my programming skills.  
+🔭 I have worked with .Net Framework, ASP.NET MVC, and Node.js.  
+💬 I’m skilled in programming languages such as Python, Java, C, SQL, and JavaScript.  
+⚡ I’m interested in AI/ML, Data Science, Automation, Blockchain, and Software Development.  
+✨ I always strive for excellence and perfection in my work.
+</p2>
 
 
 
