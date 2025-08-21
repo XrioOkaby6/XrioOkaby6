@@ -8,19 +8,17 @@
 <p1> 🌟 I'm currently pursuing a Bachelor's degree in Information Systems, actively working to improve my programming skills and exploring various areas of the IT industry. My academic and personal learning journey is focused on building a solid foundation in Information Systems while actively exploring emerging technologies.
 </p1>
 
-<h2> 💫 About me </h2>
+## 💫 About me
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=XrioOkaby6&color=green" alt="Visualizações do perfil" />
 </p>
 
-<p2> 
 🌱 I am currently improving and expanding my programming skills.  
 🔭 I have worked with .Net Framework, ASP.NET MVC, and Node.js.  
 💬 I’m skilled in programming languages such as Python, Java, C, SQL, and JavaScript.  
 ⚡ I’m interested in AI/ML, Data Science, Automation, Blockchain, and Software Development.  
 ✨ I always strive for excellence and perfection in my work.
-</p2>
 
 
 
